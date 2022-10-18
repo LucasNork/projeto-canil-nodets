@@ -7,4 +7,4 @@
 `npm install`
 
 ### Rodar o projeto
-`npm run start`
+`npm run start-dev`
